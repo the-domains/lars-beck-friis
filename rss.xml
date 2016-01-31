@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Lars Beck-Friis]]></title>
-        <description><![CDATA[Lars Beck-Friis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Mitt smultronställe i cyberspace]]></title>
+        <description><![CDATA[Mitt smultronställe i cyberspace]]></description>
+        <link>https://thegrid.ai/lars-beck-friis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 13:43:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 17:41:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lars-beck-friis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f58d4ff5-eb95-4ce2-aab0-3ba532925e65.jpg">]]></description>
+            <link>https://thegrid.ai/lars-beck-friis/26bee4e7-bdb2-4617-8f37-8a30b79860df/index.html</link>
+            <guid isPermaLink="false">26bee4e7-bdb2-4617-8f37-8a30b79860df</guid>
+            <pubDate>Sun, 31 Jan 2016 17:37:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36f924cf-4ba8-4eac-a541-9084b9feb3ff.jpg">]]></description>
-            <link>undefined7232aaf9-fd1b-42f1-b8cd-d63b5e238153/index.html</link>
+            <link>https://thegrid.ai/lars-beck-friis/7232aaf9-fd1b-42f1-b8cd-d63b5e238153/index.html</link>
             <guid isPermaLink="false">7232aaf9-fd1b-42f1-b8cd-d63b5e238153</guid>
             <pubDate>Sun, 31 Jan 2016 13:43:06 GMT</pubDate>
         </item>
