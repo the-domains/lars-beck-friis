@@ -1,0 +1,28 @@
+name: Lars Beck-Friis
+favicon: null
+layout_spectrum: 0.4578632600605488
+typography_spectrum: 0.5372565314173698
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.23669313918799162
+  lightness: 0.9865856647957116
+  saturation: 0.70098931575194
+  rhythmicContrast: 0.4428692483343184
+purpose: []
